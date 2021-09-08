@@ -1,0 +1,16 @@
+.optin-box .optin-color ul li,.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,.carousel-indicators .active,
+.testmonails .carousel-indicators li, {
+    background-color: #fd4141;
+}
+.carousel-indicators .active,.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    background-color: #fd4141;
+}
+.navbar-inverse .navbar-brand span,.about span,
+.Features .Feat span,.testmonails span,.stats .stats-offer:hover,
+.footer h3,.footer .copyright span,
+.optin-box .gear-check,.about-us-features i{ color: #fd4141; }
+
+.optin-box .optin-color,.dropdown-menu { border: 3px solid #fd4141; }
